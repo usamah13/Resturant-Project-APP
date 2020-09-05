@@ -1,0 +1,2 @@
+[apple-1.00,banana-1.25,orange-2.00]
+[onion-0.50,carrot-0.75,eggplant-0.90]

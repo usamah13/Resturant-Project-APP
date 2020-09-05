@@ -1,0 +1,1 @@
+[onion-0.50, carrot-0.75, eggplant-0.90]
